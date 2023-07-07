@@ -1,0 +1,36 @@
+.profile-container {
+    position: relative;
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    /* Add any additional styles as needed */
+  }
+
+  .pic-container{
+    border-radius: 50%;
+    overflow: hidden;
+  }
+
+  .seller-name-container
+  {
+    margin-top: 10px;
+  }
+
+  .seller-description-container{
+    margin-top: 10px;
+    font-style: italic;
+    font-size: large;
+    margin-bottom: 10px;
+  }
+  .settings-button {
+    background-color: transparent;
+    color: #000;
+  }
+  .icon-button-container {
+    position: absolute;
+    top: 0;
+    right: 0;
+  }
