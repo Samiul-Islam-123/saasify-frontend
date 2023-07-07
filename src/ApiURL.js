@@ -1,2 +1,2 @@
-const apiURL = "http://localhost:5500";
+const apiURL = "https://saas-backend-7bnw.onrender.com/";
 export default apiURL;
